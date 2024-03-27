@@ -1,5 +1,5 @@
 -- SQLite
--- Criação da tabela tabela CAR_BRAND (marcas)
+-- Criação da tabela CAR_BRAND (marcas)
 CREATE TABLE CAR_BRAND(
     ID INTEGER PRIMARY KEY AUTOINCREMENT,
     BRAND_NAME VARCHAR(32)
